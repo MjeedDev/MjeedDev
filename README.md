@@ -1,38 +1,62 @@
 # Abdulmajeed Alshammari
 
-### Gameplay Programmer | Unreal Engine Developer | Unity Developer
+### Gameplay Programmer | Unity • Unreal Engine • Technical Artist
 
-Building combat systems, gameplay frameworks, multiplayer experiences, AI behaviors, and scalable game architecture.
+Building polished gameplay systems, scalable architecture, game-ready prototypes, and technical art workflows with Unity and Unreal Engine.
 
 ---
 
 ## About Me
 
-I'm a Gameplay Programmer passionate about creating responsive gameplay experiences and production-oriented game systems using Unreal Engine and Unity.
+I'm a Gameplay Programmer passionate about building polished gameplay systems, clean architecture, and responsive player experiences using Unity and Unreal Engine.
 
-My primary interests include:
-
-- Gameplay Systems Engineering
-- Combat Systems
-- Gameplay Ability System (GAS)
-- Multiplayer Gameplay
-- AI Behaviors
-- Character Controllers
-- Action RPG & Souls-like Development
+Alongside programming, I create stylized game-ready environments and props in Blender, allowing me to prototype complete gameplay experiences from both technical and artistic perspectives.
 
 ---
 
 ## Tech Stack
 
-**Game Engines:** Unreal Engine 5, Unity
+### Game Development
 
-**Programming:** C++, C#, Object-Oriented Programming (OOP), SOLID Principles, Design Patterns
+- Unity
+- Unreal Engine 5
 
-**Gameplay Systems:** Gameplay Ability System (GAS), Combat Systems, Character Controllers, AI Behaviors, State Machines, Gameplay Effects, Gameplay Tags
+### Programming
 
-**Multiplayer:** Replication, RPCs, Host-Based Sessions, Netcode for GameObjects
+- C#
+- C++
+- OOP
+- SOLID
+- Design Patterns
 
-**Tools:** Visual Studio, JetBrains Rider, Git, GitHub, Jira, Trello, Miro, Confluence
+### Gameplay
+
+- Gameplay Systems
+- Character Controllers
+- State Machines
+- Combat Systems
+- AI Behaviors
+- Gameplay Ability System (GAS)
+
+### Multiplayer
+
+- Netcode for GameObjects
+- Replication
+- RPCs
+
+### 3D
+
+- Blender
+- Substance Painter
+- Photoshop
+
+### Tools
+
+- Rider
+- Visual Studio
+- Git
+- GitHub
+- Jira
 
 ---
 
@@ -40,6 +64,63 @@ My primary interests include:
 
 <table>
 <tr>
+
+<td width="50%" valign="top">
+
+<h3>🌍 Realm Shift Runner</h3>
+
+<a href="https://github.com/MjeedDev/realm-shift-runner">
+<img src="media/realm-shift-runner.png" width="100%">
+</a>
+
+<p>
+Unity 6 gameplay project featuring instant realm switching, responsive mobile controls, modular systems, object pooling, and scalable gameplay architecture.
+</p>
+
+<b>Highlights</b>
+
+<ul>
+<li>Unity 6 & C#</li>
+<li>Mobile-First Controls</li>
+<li>Real-Time Realm Switching</li>
+<li>Modular Gameplay Architecture</li>
+<li>Object Pooling</li>
+<li>Progressive Difficulty</li>
+<li>Polished Game Feel</li>
+</ul>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>🕹️ Arcade Nexus</h3>
+
+<a href="https://github.com/MjeedDev/Arcade-Nexus">
+<img src="media/arcade-nexus.png" width="100%">
+</a>
+
+<p>
+A collection of three Unity arcade games developed to demonstrate responsive controls, reusable gameplay systems, enemy behaviors, and varied gameplay mechanics.
+</p>
+
+<b>Highlights</b>
+
+<ul>
+<li>Unity & C#</li>
+<li>Three Playable Games</li>
+<li>Reusable Gameplay Systems</li>
+<li>Responsive Controls</li>
+<li>Enemy Behaviors</li>
+<li>UI & Game Flow</li>
+<li>Gameplay Polish</li>
+</ul>
+
+</td>
+
+</tr>
+
+<tr>
+
 <td width="50%" valign="top">
 
 <h3>⭐ Warrior GAS Framework</h3>
@@ -49,17 +130,19 @@ My primary interests include:
 </a>
 
 <p>
-Unreal Engine 5 Gameplay Ability System (GAS) combat framework focused on scalable gameplay architecture.
+Unreal Engine 5 Gameplay Ability System combat framework focused on scalable, reusable, and data-driven gameplay architecture.
 </p>
 
 <b>Highlights</b>
 
-- Gameplay Abilities
-- Gameplay Effects
-- Attribute System
-- Combat Framework
-- AI Systems
-- Data-Driven Architecture
+<ul>
+<li>Gameplay Abilities</li>
+<li>Gameplay Effects</li>
+<li>Attribute System</li>
+<li>Combat Framework</li>
+<li>AI Systems</li>
+<li>Data-Driven Architecture</li>
+</ul>
 
 </td>
 
@@ -72,21 +155,26 @@ Unreal Engine 5 Gameplay Ability System (GAS) combat framework focused on scalab
 </a>
 
 <p>
-2D Action Adventure prototype focused on exploration, combat, boss encounters, and progression systems.
+A 2D action-adventure prototype focused on responsive combat, exploration, boss encounters, character abilities, and progression systems.
 </p>
 
 <b>Highlights</b>
 
-- Combat Systems
-- Boss Encounters
-- Ability Progression
-- Exploration Gameplay
-- NPC Interactions
+<ul>
+<li>Combat Systems</li>
+<li>Boss Encounters</li>
+<li>Ability Progression</li>
+<li>Exploration Gameplay</li>
+<li>NPC Interactions</li>
+<li>Character Movement</li>
+</ul>
 
 </td>
+
 </tr>
 
 <tr>
+
 <td width="50%" valign="top">
 
 <h3>🌐 Project Blackout</h3>
@@ -96,16 +184,19 @@ Unreal Engine 5 Gameplay Ability System (GAS) combat framework focused on scalab
 </a>
 
 <p>
-Online multiplayer third-person shooter developed in Unreal Engine 5.
+An online multiplayer third-person shooter developed in Unreal Engine 5, featuring replicated combat and host-based multiplayer sessions.
 </p>
 
 <b>Highlights</b>
 
-- Multiplayer Networking
-- Replication
-- RPC Communication
-- Host-Based Sessions
-- Third-Person Combat
+<ul>
+<li>Multiplayer Networking</li>
+<li>Replication</li>
+<li>RPC Communication</li>
+<li>Host-Based Sessions</li>
+<li>Third-Person Combat</li>
+<li>Networked Gameplay</li>
+</ul>
 
 </td>
 
@@ -118,18 +209,22 @@ Online multiplayer third-person shooter developed in Unreal Engine 5.
 </a>
 
 <p>
-Stylized Action RPG prototype developed in Unreal Engine 5.
+A stylized action RPG prototype developed in Unreal Engine 5, focused on character combat, animation systems, and responsive gameplay feel.
 </p>
 
 <b>Highlights</b>
 
-- Combat Systems
-- Foot IK
-- Character Animation
-- Stylized Art Direction
-- Gameplay Feel Development
+<ul>
+<li>Combat Systems</li>
+<li>Foot IK</li>
+<li>Character Animation</li>
+<li>Stylized Art Direction</li>
+<li>Gameplay Feel</li>
+<li>Action RPG Mechanics</li>
+</ul>
 
 </td>
+
 </tr>
 </table>
 
@@ -138,24 +233,23 @@ Stylized Action RPG prototype developed in Unreal Engine 5.
 ## Areas of Interest
 
 - Gameplay Programming
-- Gameplay Systems Engineering
-- Combat Systems
-- Gameplay Ability System (GAS)
-- Multiplayer Systems
+- Gameplay Architecture
 - AI Programming
-- Unreal Engine Development
+- Multiplayer Systems
+- Technical Art
+- Game Development
 
 ---
 
 ## Current Focus
 
-Currently expanding my expertise in:
+Currently focusing on:
 
-- Advanced Gameplay Architecture
-- Gameplay Ability System (GAS)
-- Combat Framework Design
-- Multiplayer Gameplay Systems
-- AI Systems
+- Production-Ready Gameplay Architecture
+- Unity Gameplay Systems
+- Unreal Engine Gameplay Frameworks
+- Multiplayer Programming
+- Technical Art & Game-Ready Assets
 
 ---
 
@@ -163,8 +257,12 @@ Currently expanding my expertise in:
 
 📧 Email: [mjeedmsh@gmail.com](mailto:mjeedmsh@gmail.com)
 
-💼 LinkedIn
-https://www.linkedin.com/in/abdulmajeed-alshammari-a2a5a0328/
+💼 LinkedIn: https://www.linkedin.com/in/abdulmajeed-alshammari-a2a5a0328/
 
-🐙 GitHub
-https://github.com/MjeedDev
+🐙 GitHub: https://github.com/MjeedDev
+
+## Art Portfolio
+
+🎨 ArtStation: https://www.artstation.com/mjeedm
+
+🧊 Sketchfab: https://sketchfab.com/vMjeeed
